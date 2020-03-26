@@ -162,13 +162,13 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control mb-30" name="full-name"
+                                        <input type="text" class="form-control mb-30" name="phone"
                                             placeholder="Phone">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control mb-30" name="email"
+                                        <input type="text" class="form-control mb-30" name="org"
                                             placeholder="Organization">
                                     </div>
                                 </div>
