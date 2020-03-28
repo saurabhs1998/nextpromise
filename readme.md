@@ -1,15 +1,3 @@
-/* ------------------------------------------------------
-Template Name: Uza - Creative Agency HTML5 Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
-Version: 1.0.0
-Last Update: Dec 31, 2018
------------------------------------------------------ */
-
-/* --------------------------------
-To start 'Gulp' => npm run start
--------------------------------- */
-
 File Structure:
 uza/
 └── src/
